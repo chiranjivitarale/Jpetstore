@@ -1,0 +1,22 @@
+[32mINFO    [0m Test_Login:test_login.py:34 Testcase test_page_title_001 is start
+[32mINFO    [0m Test_Login:test_login.py:35 Opening Browser
+[32mINFO    [0m Test_Login:test_login.py:38 Click on Sing in
+[32mINFO    [0m Test_Login:test_login.py:40 Click on Register now
+[32mINFO    [0m Test_Login:test_login.py:42 Entering Username
+[32mINFO    [0m Test_Login:test_login.py:44 Entering Password
+[32mINFO    [0m Test_Login:test_login.py:46 Entering RepeatPassword
+[32mINFO    [0m Test_Login:test_login.py:50 Entering Firstname
+[32mINFO    [0m Test_Login:test_login.py:52 Entering Lastname
+[32mINFO    [0m Test_Login:test_login.py:54 Entering Email
+[32mINFO    [0m Test_Login:test_login.py:56 Entering Phone
+[32mINFO    [0m Test_Login:test_login.py:58 Entering Address1
+[32mINFO    [0m Test_Login:test_login.py:60 Entering Address2
+[32mINFO    [0m Test_Login:test_login.py:62 Entering City
+[32mINFO    [0m Test_Login:test_login.py:64 Entering State
+[32mINFO    [0m Test_Login:test_login.py:66 Entering Country
+[32mINFO    [0m Test_Login:test_login.py:68 Select English
+[32mINFO    [0m Test_Login:test_login.py:70 Select Cats
+[32mINFO    [0m Test_Login:test_login.py:72 Click Mylist
+[32mINFO    [0m Test_Login:test_login.py:74 Click MyBanner
+[32mINFO    [0m Test_Login:test_login.py:76 Save Account information
+[32mINFO    [0m Test_Login:test_login.py:98 Tasecase is Completed

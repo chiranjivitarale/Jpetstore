@@ -1,0 +1,43 @@
+2023-08-14 10:08:23,039 : INFO : Test_Login : test_page_title_001 : 34 : Testcase test_page_title_001 is start
+2023-08-14 10:08:23,039 : INFO : Test_Login : test_page_title_001 : 35 : Opening Browser
+2023-08-14 10:08:23,039 : INFO : Test_Login : test_page_title_001 : 38 : Click on Sing in
+2023-08-14 10:08:23,333 : INFO : Test_Login : test_page_title_001 : 40 : Click on Register now
+2023-08-14 10:08:23,727 : INFO : Test_Login : test_page_title_001 : 42 : Entering Username
+2023-08-14 10:08:23,835 : INFO : Test_Login : test_page_title_001 : 44 : Entering Password
+2023-08-14 10:08:23,980 : INFO : Test_Login : test_page_title_001 : 46 : Entering RepeatPassword
+2023-08-14 10:08:24,157 : INFO : Test_Login : test_page_title_001 : 50 : Entering Firstname
+2023-08-14 10:08:24,234 : INFO : Test_Login : test_page_title_001 : 52 : Entering Lastname
+2023-08-14 10:08:24,333 : INFO : Test_Login : test_page_title_001 : 54 : Entering Email
+2023-08-14 10:08:24,428 : INFO : Test_Login : test_page_title_001 : 56 : Entering Phone
+2023-08-14 10:08:24,515 : INFO : Test_Login : test_page_title_001 : 58 : Entering Address1
+2023-08-14 10:08:24,605 : INFO : Test_Login : test_page_title_001 : 60 : Entering Address2
+2023-08-14 10:08:24,685 : INFO : Test_Login : test_page_title_001 : 62 : Entering City
+2023-08-14 10:08:24,733 : INFO : Test_Login : test_page_title_001 : 64 : Entering State
+2023-08-14 10:08:24,819 : INFO : Test_Login : test_page_title_001 : 66 : Entering Country
+2023-08-14 10:08:24,875 : INFO : Test_Login : test_page_title_001 : 68 : Select English
+2023-08-14 10:08:24,964 : INFO : Test_Login : test_page_title_001 : 70 : Select Cats
+2023-08-14 10:08:25,031 : INFO : Test_Login : test_page_title_001 : 72 : Click Mylist
+2023-08-14 10:08:25,096 : INFO : Test_Login : test_page_title_001 : 74 : Click MyBanner
+2023-08-14 10:08:26,094 : INFO : Test_Login : test_page_title_001 : 76 : Save Account information
+2023-08-14 10:14:10,213 : INFO : Test_Login : test_page_title_001 : 34 : Testcase test_page_title_001 is start
+2023-08-14 10:14:10,214 : INFO : Test_Login : test_page_title_001 : 35 : Opening Browser
+2023-08-14 10:14:10,214 : INFO : Test_Login : test_page_title_001 : 38 : Click on Sing in
+2023-08-14 10:14:10,475 : INFO : Test_Login : test_page_title_001 : 40 : Click on Register now
+2023-08-14 10:14:10,896 : INFO : Test_Login : test_page_title_001 : 42 : Entering Username
+2023-08-14 10:14:11,018 : INFO : Test_Login : test_page_title_001 : 44 : Entering Password
+2023-08-14 10:14:11,172 : INFO : Test_Login : test_page_title_001 : 46 : Entering RepeatPassword
+2023-08-14 10:14:11,329 : INFO : Test_Login : test_page_title_001 : 50 : Entering Firstname
+2023-08-14 10:14:11,406 : INFO : Test_Login : test_page_title_001 : 52 : Entering Lastname
+2023-08-14 10:14:11,505 : INFO : Test_Login : test_page_title_001 : 54 : Entering Email
+2023-08-14 10:14:11,596 : INFO : Test_Login : test_page_title_001 : 56 : Entering Phone
+2023-08-14 10:14:11,684 : INFO : Test_Login : test_page_title_001 : 58 : Entering Address1
+2023-08-14 10:14:11,769 : INFO : Test_Login : test_page_title_001 : 60 : Entering Address2
+2023-08-14 10:14:11,847 : INFO : Test_Login : test_page_title_001 : 62 : Entering City
+2023-08-14 10:14:11,891 : INFO : Test_Login : test_page_title_001 : 64 : Entering State
+2023-08-14 10:14:11,973 : INFO : Test_Login : test_page_title_001 : 66 : Entering Country
+2023-08-14 10:14:12,030 : INFO : Test_Login : test_page_title_001 : 68 : Select English
+2023-08-14 10:14:12,116 : INFO : Test_Login : test_page_title_001 : 70 : Select Cats
+2023-08-14 10:14:12,181 : INFO : Test_Login : test_page_title_001 : 72 : Click Mylist
+2023-08-14 10:14:12,243 : INFO : Test_Login : test_page_title_001 : 74 : Click MyBanner
+2023-08-14 10:14:12,641 : INFO : Test_Login : test_page_title_001 : 76 : Save Account information
+2023-08-14 10:14:12,641 : INFO : Test_Login : test_page_title_001 : 98 : Tasecase is Completed
